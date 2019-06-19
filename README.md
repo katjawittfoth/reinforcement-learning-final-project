@@ -7,4 +7,4 @@ The goal is simple: given a car in a 2D plane that is stuck between two 'mountai
 
 ![MountainCar GIF](/images/mountaincar.gif)
 
-This problem was first described by Andrew Moore in his PhD thesis [Moore90].
+This problem was first described by Andrew Moore in his PhD thesis.

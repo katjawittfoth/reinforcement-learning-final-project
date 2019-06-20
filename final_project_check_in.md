@@ -8,6 +8,5 @@
 
     1. Try out some classical kinematics modelling just for fun
     2. Try deep Q-learning 
-    3. Try double Q-learning
 
 - Working Code on Github: Both a working environment and a working agent are in the code. If you run it, you will see a visualization of this.
